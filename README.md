@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adedayo
 - 👀 I’m interested in Frontend Web Dev/Mobile Engineering Using Dart/Flutter
 - 🌱 I’m currently learning Flutter/Bootstrap5
-- 💞️ I’m looking to collaborate on Flutter projects/Web Development
+- 💞️ I’m looking to collaborate on Flutter/Web Development Projects
 - 📫 You reach me here: adeniola50@gmail.com
 
 <!---
