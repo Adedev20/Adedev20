@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Adedayo
-- 👀 I’m interested in Frontend Web Dev/Mobile Engineering Using Dart/Flutter
-- 🌱 I’m currently learning Flutter/Bootstrap5
-- 💞️ I’m looking to collaborate on Flutter/Web Development Projects
+- 👋 Hi, I’m Emmanuel
+- 👀 I’m interested in Embedded/IoT Systems & Solutions.
+- 🌱 I’m currently working on Embedded Systems & IoT solutions.
+- 💞️ I’m looking to collaborate on Embedded Systems/IoT Systems & Solutions/Fluttr Apps
 - 📫 You reach me here: adeniola50@gmail.com
 
 <!---
