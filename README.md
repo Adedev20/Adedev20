@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emmanuel
 - 👀 I’m interested in Embedded/IoT Systems & Solutions.
-- 🌱 I’m currently working on Embedded Systems & IoT solutions.
+- 🌱 Currently working on Embedded Systems & IoT solutions.
 - 💞️ I’m looking to collaborate on Embedded Systems/IoT Systems & Solutions/Fluttr Apps
 - 📫 You reach me here: adeniola50@gmail.com
 
